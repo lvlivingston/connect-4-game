@@ -1,4 +1,3 @@
-console.log("good morning developers");
 	/*----- constants -----*/
 const COLORS = {
     '0': 'white',
